@@ -1,5 +1,3 @@
----
-
 # 🎣 Phishing Attack Simulation & Detection Report
 
 **Intern Name:** Yuvaraj
